@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  IT Student · Polytechnic University of the Philippines – Quezon City
+  Code it until you make it.
 </p>
 
 ---
@@ -21,17 +21,5 @@ I am a 3rd year Information Technology student who takes pride in building syste
 | **Sex Ed 101** | Mobile application for sexual health education | Full-Stack Developer | In Progress |
 | **NutriLuto** | Filipino nutrition analyzer with calorie and macro tracking | Database Manager | Completed |
 | **MindConnect** | Mental health management system | Lead Researcher | Completed |
-| **ReserBus** | Bus reservation and booking system | Technical Writer | Completed |
-| **Gurong GabAI** | AI-powered lesson plan generator for teachers | Full-Stack Developer | Completed |
-
----
-
-### Motto
-
-> "Code it until you make it."
-
----
-
-<p align="center">
-  Marie Purawan · PUPQC · Information Technology
-</p>
+| **ReserBus** | Bus Reservation (booking) System | Technical Writer | Completed |
+| **Gurong GabAI** | AI-Powered Lesson Plan Generator | Full-Stack Developer | Completed |
