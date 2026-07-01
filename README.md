@@ -1,36 +1,37 @@
-<h1 align="center">Hi, I'm Marie! 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Marie+is+here." alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  IT Student @ Polytechnic University of the Philippines – Quezon City
-</p>
-
-<p align="center">
-  Full-Stack Developer · Researcher · Technical Writer
+  IT Student · Polytechnic University of the Philippines – Quezon City
 </p>
 
 ---
 
-### 💗 Who Am I?
+### Who Am I?
 
-I'm a 3rd year IT student who loves turning ideas into real, working systems —
-from mobile apps to AI-powered web tools. I enjoy being hands-on in both
-development and research, and I take pride in building things that actually
-solve problems.
+I am a 3rd year Information Technology student who takes pride in building systems that solve real problems. I have experience across mobile development, web development, AI integration, database management, and research — and I am always looking for opportunities to grow and contribute meaningfully to every project I am part of.
 
 ---
 
-### 💗 Projects
+### Projects
 
 | System | Description | Role | Status |
 |---|---|---|---|
-| 🎀 **Sex Ed 101** | Mobile app for sexual health education | Full-Stack Developer | 🔄 In Progress |
-| 🍲 **NutriLuto** | Filipino nutrition analyzer with calorie & macro tracking | Database Manager | ✅ Done |
-| 🧠 **MindConnect** | Mental health management system | Lead Researcher | ✅ Done |
-| 🚌 **ReserBus** | Bus reservation & booking system | Technical Writer / Documentation | ✅ Done |
-| 🤖 **Gurong GabAI** | AI-powered lesson plan generator for teachers | Full-Stack Developer | ✅ Done |
+| **Sex Ed 101** | Mobile application for sexual health education | Full-Stack Developer | In Progress |
+| **NutriLuto** | Filipino nutrition analyzer with calorie and macro tracking | Database Manager | Completed |
+| **MindConnect** | Mental health management system | Lead Researcher | Completed |
+| **ReserBus** | Bus reservation and booking system | Technical Writer | Completed |
+| **Gurong GabAI** | AI-powered lesson plan generator for teachers | Full-Stack Developer | Completed |
+
+---
+
+### Motto
+
+> "Code it until you make it."
 
 ---
 
 <p align="center">
-  ✨ Still learning, still building, still growing. ✨
+  Marie Purawan · PUPQC · Information Technology
 </p>
