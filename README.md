@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Code+Name%3A+Marie+%F0%9F%A4%8D" alt="Typing SVG" />
 </h1>
 
----
-
 ### Who Am I?
 
 I am a 3rd year Information Technology student who takes a pride in building systems that solve real problems.
