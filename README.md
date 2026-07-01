@@ -10,10 +10,10 @@ I am a 3rd year BSIT student who constantly learning, constantly improving, and 
 
 Here are some of my system proposals that were approved and later developed into an actual software systems.
 
-| System | Description | Role | Status |
+| System | Description | Type | Role |
 |---|---|---|---|
-| **Sex Ed 101** | Mobile Application for Sexual Health Education | Full-Stack Developer | In Progress |
-| **NutriLuto** | Filipino Nutrition with Analyzer | Database Manager | Completed |
-| **MindConnect** | Mental Health Management System | Lead Researcher | In Progress |
-| **ReserBus** | Bus Reservation System | Technical Writer | Completed |
-| **Gurong GabAI** | AI-Powered Lesson Plan Generator | Full-Stack Developer | Completed |
+| **SexEd 101** | Mobile Application for Sexual Health Education | Individual | Full-Stack Developer |
+| **NutriLuto** | Filipino Nutrition with Analyzer | Groupings | Database Manager |
+| **MindConnect** | Mental Health Management System | Groupings | Lead Researcher |
+| **ReserBus** | Bus Reservation System | Groupings | Technical Writer / Documentation |
+| **Gurong GabAI** | AI-Powered Lesson Plan Generator | Individual | Full-Stack Developer |
