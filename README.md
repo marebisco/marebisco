@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Marie! 👋</h1>
 
-<!--
-**marebisco/marebisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  IT Student @ Polytechnic University of the Philippines – Quezon City
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Full-Stack Developer · Researcher · Technical Writer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💗 Who Am I?
+
+I'm a 3rd year IT student who loves turning ideas into real, working systems —
+from mobile apps to AI-powered web tools. I enjoy being hands-on in both
+development and research, and I take pride in building things that actually
+solve problems.
+
+---
+
+### 💗 Projects
+
+| System | Description | Role | Status |
+|---|---|---|---|
+| 🎀 **Sex Ed 101** | Mobile app for sexual health education | Full-Stack Developer | 🔄 In Progress |
+| 🍲 **NutriLuto** | Filipino nutrition analyzer with calorie & macro tracking | Database Manager | ✅ Done |
+| 🧠 **MindConnect** | Mental health management system | Lead Researcher | ✅ Done |
+| 🚌 **ReserBus** | Bus reservation & booking system | Technical Writer / Documentation | ✅ Done |
+| 🤖 **Gurong GabAI** | AI-powered lesson plan generator for teachers | Full-Stack Developer | ✅ Done |
+
+---
+
+<p align="center">
+  ✨ Still learning, still building, still growing. ✨
+</p>
