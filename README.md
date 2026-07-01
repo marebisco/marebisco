@@ -6,8 +6,6 @@
 
 I am a 3rd year Information Technology student who takes a pride in building systems that solve real problems.
 
----
-
 ### Projects
 
 | System | Description | Role | Status |
