@@ -4,9 +4,11 @@
 
 ### Who Am I?
 
-I am a 3rd year Information Technology student who takes a pride in building systems that solve real problems.
+I am a 3rd year BSIT student who constantly learning, constantly improving, and never stopping :)
 
-### Projects
+### System Projects
+
+Here are some of my system proposals that were approved and later developed into an actual software systems.
 
 | System | Description | Role | Status |
 |---|---|---|---|
