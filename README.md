@@ -12,7 +12,7 @@ Here are some of my system proposals that were approved and later developed into
 
 | System | Description | Type | Role |
 |---|---|---|---|
-| **SexEd 101** | Mobile Application for Sexual Health Education | Individual | Full-Stack Developer |
+| **Sex Ed 101** | Mobile Application for Sexual Health Education | Individual | Full-Stack Developer |
 | **NutriLuto** | Filipino Nutrition with Analyzer | Groupings | Database Manager |
 | **MindConnect** | Mental Health Management System | Groupings | Lead Researcher |
 | **ReserBus** | Bus Reservation System | Groupings | Technical Writer / Documentation |
