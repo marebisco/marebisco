@@ -6,7 +6,7 @@
 I am Mary Anne B. Purawan. I am a 3rd year BSIT student who is constantly learning, constantly improving, and never stopping :)
 
 ### System Projects
-Here are some of my system proposals that were approved and later developed into an actual software systems.
+Here are some of my system proposals that were approved and later-on developed into an actual software systems.
 
 | System | Description | Type | Role |
 |---|---|---|---|
