@@ -15,24 +15,25 @@ Here are some of my system proposals that were approved and later-on developed i
 <th align="left" width="12%">Type</th>
 <th align="left" width="16%">Role</th>
 <th align="left">Contribution</th>
+<th align="left">Status</th>
 </tr>
 <tr>
 <td>📱 <b>Sex Ed 101</b></td>
 <td>Empowering Sexual Health Education</td>
 <td>Individual</td>
 <td>Full-Stack Developer</td>
-<td>Designed and developed the application's user interface and backend functionality using FlutterFlow as part of a Mobile Development course. Created the wireframes in Canva prior to development, then handled the end-to-end build of the app.</td>
+<td>Designed and developed the application's user interface and backend functionality using FlutterFlow as part of a Mobile Development course.</td>
 </tr>
 <tr>
 <td>🥗 <b>NutriLuto</b></td>
 <td>Filipino Recipe and Nutrition Analyzer</td>
 <td>Group</td>
 <td>Database Developer</td>
-<td>Designed and managed the SQLite database, including the recipe and ingredient data tables that store nutritional information such as calories, protein, carbohydrates, and fat content. Handled the data population for Filipino ingredients and recipes used by the nutrition analyzer.</td>
+<td>One of designed and managed the SQLite database, including the recipe and ingredient data tables that store nutritional information such as calories, protein, carbohydrates, and fat content.</td>
 </tr>
 <tr>
 <td>🧠 <b>MindConnect</b></td>
-<td>On Going</td>
+<td>On Going Revision</td>
 <td>Group</td>
 <td>Researcher</td>
 <td>Contributed to the research component of the proposal.</td>
@@ -42,13 +43,13 @@ Here are some of my system proposals that were approved and later-on developed i
 <td>Bus Reservation System</td>
 <td>Group</td>
 <td>Documentation</td>
-<td>Authored the system proposal and helped creating the Detailed Design Report which covering the entity relationship diagram, database schema, input forms, and screen navigation flow.</td>
+<td>Helped creating the Detailed Design Report which covering the entity relationship diagram, database schema, input forms, and screen navigation flow.</td>
 </tr>
 <tr>
 <td>🤖 <b>Gurong GabAI</b></td>
 <td>AI-Powered Lesson Plan Generator</td>
 <td>Individual</td>
 <td>Full-Stack Developer</td>
-<td>Solo-developed the system that end-to-end project concept, requirements, use case and architecture diagrams, UI/UX wireframes mockups, and full implementation. Also authored the Information Assurance & Security report detailing the system's security controls.</td>
+<td>Developed the entire and full implementation of the system.</td>
 </tr>
 </table>
