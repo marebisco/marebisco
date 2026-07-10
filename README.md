@@ -15,7 +15,6 @@ Here are some of my system proposals that were approved and later-on developed i
 <th align="left" width="12%">Type</th>
 <th align="left" width="16%">Role</th>
 <th align="left">Contribution</th>
-<th align="left">Status</th>
 </tr>
 <tr>
 <td>📱 <b>Sex Ed 101</b></td>
@@ -29,7 +28,7 @@ Here are some of my system proposals that were approved and later-on developed i
 <td>Filipino Recipe and Nutrition Analyzer</td>
 <td>Group</td>
 <td>Database Developer</td>
-<td>One of designed and managed the SQLite database, including the recipe and ingredient data tables that store nutritional information such as calories, protein, carbohydrates, and fat content.</td>
+<td>One of designed and managed the SQLite database, including the recipe and ingredient data tables that store nutritional information content.</td>
 </tr>
 <tr>
 <td>🧠 <b>MindConnect</b></td>
