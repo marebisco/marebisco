@@ -21,21 +21,21 @@ Here are some of my system proposals that were approved and later-on developed i
 <td>Empowering Sexual Health Education</td>
 <td>Individual</td>
 <td>Full-Stack Developer</td>
-<td>Designed and developed the application's user interface and backend functionality using FlutterFlow as part of a Mobile Development course.</td>
+<td>Designed the user interface and developed backend functionality using FlutterFlow, based on wireframes created in Canva, as part of a Mobile Development course.</td>
 </tr>
 <tr>
 <td>🥗 <b>NutriLuto</b></td>
 <td>Filipino Recipe and Nutrition Analyzer</td>
 <td>Group</td>
 <td>Database Developer</td>
-<td>One of designed and managed the SQLite database, including the recipe and ingredient data tables that store nutritional information content.</td>
+<td>Designed and managed the SQLite database, including the recipe and ingredient data tables storing nutritional information such as calories, protein, carbohydrates, and fat content.</td>
 </tr>
 <tr>
 <td>🧠 <b>MindConnect</b></td>
 <td>On Going Revision</td>
 <td>Group</td>
 <td>Researcher</td>
-<td>Contributed to the research component of the proposal.</td>
+<td>Contributed to the research component of the proposal, helping build the problem background and study foundation for the system's mental health features.</td>
 </tr>
 <tr>
 <td>🚌 <b>ReserBus</b></td>
@@ -49,6 +49,6 @@ Here are some of my system proposals that were approved and later-on developed i
 <td>AI-Powered Lesson Plan Generator</td>
 <td>Individual</td>
 <td>Full-Stack Developer</td>
-<td>Developed the entire and full implementation of the system.</td>
+<td>Solo-developed the system end-to-end using PHP, MySQL, and the OpenRouter API, integrating a multi-model AI fallback chain (GPT-4o-mini, Gemini 3 Flash, Llama 3.1) for AI-powered lesson plan generation. Implemented 9 layered security controls, including BCrypt password hashing, prepared statements, role-based access control, and email OTP/MFA, alongside the system's requirements, architecture diagrams, and UI/UX wireframes.</td>
 </tr>
 </table>
