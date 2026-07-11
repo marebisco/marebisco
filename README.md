@@ -49,6 +49,6 @@ Here are some of my system proposals that were approved and later-on developed i
 <td>AI-Powered Lesson Plan Generator</td>
 <td>Individual</td>
 <td>Full-Stack Developer</td>
-<td>Developed the system using PHP, MySQL, and the OpenRouter API, integrating a multi-model AI fallback chain such as (GPT-4o-mini, Gemini 3 Flash, Llama 3.1). Implemented also the 9 layered security controls including BCrypt hashing, RBAC, and email OTP/MFA.</td>
+<td>Developed the system using PHP, MySQL, and the OpenRouter API, integrating a multi-model AI fallback chain such as GPT-4o-mini, Gemini 3 Flash, and Llama 3.1. Implemented also the 9 layered security controls including BCrypt hashing, RBAC, and email OTP/MFA.</td>
 </tr>
 </table>
