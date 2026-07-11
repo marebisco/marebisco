@@ -32,7 +32,7 @@ Here are some of my system proposals that were approved and later-on developed i
 </tr>
 <tr>
 <td>🧠 <b>MindConnect</b></td>
-<td>On Going Revision</td>
+<td>Mental Health Management System</td>
 <td>Group</td>
 <td>Researcher</td>
 <td>Contributed to the research component of the proposal, helping build the problem background and study foundation for the system's mental health features.</td>
@@ -49,6 +49,6 @@ Here are some of my system proposals that were approved and later-on developed i
 <td>AI-Powered Lesson Plan Generator</td>
 <td>Individual</td>
 <td>Full-Stack Developer</td>
-<td>Developed the system using PHP, MySQL, and the OpenRouter API, integrating a multi-model AI fallback chain (GPT-4o-mini, Gemini 3 Flash, Llama 3.1) for AI-powered lesson plan generation. Implemented 9 layered security controls, including BCrypt password hashing, prepared statements, role-based access control, and email OTP/MFA, alongside the system's requirements, architecture diagrams, and UI/UX wireframes.</td>
+<td>Developed the system using PHP, MySQL, and the OpenRouter API, integrating a multi-model AI fallback chain such as (GPT-4o-mini, Gemini 3 Flash, Llama 3.1). Implemented also the 9 layered security controls including BCrypt hashing, RBAC, and email OTP/MFA.</td>
 </tr>
 </table>
