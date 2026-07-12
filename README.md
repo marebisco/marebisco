@@ -35,20 +35,20 @@ Here are some of my system proposals that were approved and later-on developed i
 <td>Mental Health Management System</td>
 <td>Group</td>
 <td>Researcher, System Analyst</td>
-<td>Conceptualized the system, identified the core problems, and established the research foundation.</td>
+<td>Conceptualized the system, identified core problems, defined its functional requirements and established the research foundation.</td>
 </tr>
 <tr>
 <td>🚌 <b>ReserBus</b></td>
 <td>Bus Reservation System</td>
 <td>Group</td>
 <td>Documentation</td>
-<td>Helped creating the Detailed Design Report which covering the entity relationship diagram, database schema, input forms, and screen navigation flow.</td>
+<td>Helped develop the Detailed Design Report, covering the entity relationship diagram, database schema, input forms, and screen navigation flow.</td>
 </tr>
 <tr>
 <td>🤖 <b>Gurong GabAI</b></td>
 <td>AI-Powered Lesson Plan Generator</td>
 <td>Individual</td>
 <td>Full-Stack Developer</td>
-<td>Developed the system using PHP, MySQL, and the OpenRouter API, integrating a multi-model AI fallback chain such as GPT-4o-mini, Gemini 3 Flash, and Llama 3.1. Implemented also the 9 layered security controls including BCrypt hashing, RBAC, and email OTP/MFA.</td>
+<td>Developed a system using PHP, MySQL, and the OpenRouter API with a multi-model fallback architecture (GPT-4o mini, Gemini 3 Flash, Meta Llama 3.1). Implemented layered security features including bcrypt hashing, RBAC, and email OTP/MFA.</td>
 </tr>
 </table>
