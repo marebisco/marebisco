@@ -34,8 +34,8 @@ Here are some of my system proposals that were approved and later-on developed i
 <td>🧠 <b>MindConnect</b></td>
 <td>Mental Health Management System</td>
 <td>Group</td>
-<td>Researcher</td>
-<td>Contributed to the research component of the proposal, helping build the problem background and study foundation for the system's mental health features.</td>
+<td>System Analyst</td>
+<td>Conceptualized the system, identified the core problems, and established the research foundation.</td>
 </tr>
 <tr>
 <td>🚌 <b>ReserBus</b></td>
