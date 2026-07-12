@@ -34,7 +34,7 @@ Here are some of my system proposals that were approved and later-on developed i
 <td>🧠 <b>MindConnect</b></td>
 <td>Mental Health Management System</td>
 <td>Group</td>
-<td>System Analyst</td>
+<td>Researcher, System Analyst</td>
 <td>Conceptualized the system, identified the core problems, and established the research foundation.</td>
 </tr>
 <tr>
