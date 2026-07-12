@@ -25,7 +25,7 @@ Here are some of my system proposals that were approved and later-on developed i
 </tr>
 <tr>
 <td>🥗 <b>NutriLuto</b></td>
-<td>Filipino Recipe and Nutrition Analyzer</td>
+<td>Filipino Recipe with Nutrition Analyzer</td>
 <td>Group</td>
 <td>Database Developer</td>
 <td>Designed and managed the SQLite database, including the recipe and ingredient data tables storing nutritional information such as calories, protein, carbohydrates, and fat content.</td>
