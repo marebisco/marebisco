@@ -49,6 +49,6 @@ Here are some of my system proposals that were approved and later-on developed i
 <td>AI-Powered Lesson Plan Generator</td>
 <td>Individual</td>
 <td>Full-Stack Developer</td>
-<td>Developed a system using PHP, MySQL, and the OpenRouter API with 3 multi-model fallback chain architecture. Implemented 9 layered security features.</td>
+<td>Developed a system using PHP, MySQL, and the OpenRouter API with 3 multi-model fallback chain architecture. Implemented also 9 layered security features.</td>
 </tr>
 </table>
