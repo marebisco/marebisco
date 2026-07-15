@@ -21,7 +21,7 @@ Here are some of my system proposals that were approved and later-on developed i
 <td>Empowering Sexual Health Education</td>
 <td>Individual</td>
 <td>Full-Stack Developer</td>
-<td>Designed the user interface and developed backend functionality using FlutterFlow, based on wireframes created in Canva, as part of a Mobile Development course.</td>
+<td>Designed the user interface and developed backend functionality using FlutterFlow, based on wireframes created in Canva.</td>
 </tr>
 <tr>
 <td>🥗 <b>NutriLuto</b></td>
