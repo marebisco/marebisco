@@ -5,7 +5,7 @@
 ### Who Am I?
 I am Mary Anne B. Purawan. I am a 3rd year BSIT student who is constantly learning, constantly improving, and never stopping :)
 
-### System Projects
+### Academic Projects
 Here are some of my system proposals that were approved and later-on developed into actual software systems.
  
 <table>
